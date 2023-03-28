@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Test.Automation.Alert_DAD"/>
+      <class name="Test.Automation.Events"/>
+      <class name="Test.Automation.Frames"/>
+      <class name="Test.Automation.tableTags"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
